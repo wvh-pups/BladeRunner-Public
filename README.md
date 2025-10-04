@@ -14,7 +14,7 @@ Controls:
 - 1 - save the world
 - 2 - load the world
 - F3 - open / close the debug menu
-- F1 - open / close the console
+- ` (backtick) - open / close the console
 - Left mouse button when hovering over inventory slot - take or place back the item
 
 <img width="1276" height="733" alt="image" src="https://github.com/user-attachments/assets/7ccb22d5-581d-4aa4-a64e-3d8d0ba9a8a0" />
